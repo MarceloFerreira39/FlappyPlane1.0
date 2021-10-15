@@ -1,0 +1,55 @@
+## Player 
+	1.1 Importando a Sprit do avião -  OK
+	1.2 Criar o objeto do avião, dar a sprit do avião para ele e coloca-lo na room - OK
+	1.3 - Caindo ao iniciar o jogo - OK
+	1.4 - Evento espaço faz com que ele suba - OK
+	1.5 - Simulando a gravidade contínua - OK
+	1.6 - lImitar a velocidade de queda do avião -  OK
+	1.7 - Reiniciando ao colidir com o Obstaculo -  OK
+	1.8 - Criar uma fumaça sempre que subir - OK
+	1.9 - Fazendo a fumaça crescer - OK
+	1.10 - Fazendo a fumaça desaparecer - OK
+	1.11 - Player perca ao sair da tela (Reiniciar o jogo) -
+	
+## Obstaculos
+	2.1 - Criar as sprits das montanhas  OK
+	2.2 - Criar o objeto das montanhas - OK
+	2.3 - Ajustar o espaço entre as montanhas - OK
+	2.4 - Movendo os obstaculos para a esquerda -  OK
+	2.5 - Aumentando a velocidade dependendo do Level -  OK
+
+##Geração procedural dos obstáculos
+	3.1 - Criando um evento que repete (criar um objeto que controla a repetição)-  OK
+	3.2 - Criando as montanhas -  OK
+	3.3 - Gerar a frequência da criação das montanhas -  OK
+	3.4 - Alterar o posicionamento das Montanhas -  OK
+	3.5 - alterar o Intervalo das montanhas ao level do jogo -  OK
+
+##Background
+	4.1 - Criando a sprit do background -  OK
+	4.2 - Colocando movimento no BKG -  OK
+	4.3 - Ajustar a velocidade em relação ao lvl - OK
+	4.4 - Criar o chão - OK
+	
+##Sistema de pontos
+	5.1 - Iniciando o sistema de Pontos -  OK
+	5.2 - Ganhando Pontos - OK
+	5.3 - Exibindo os pontos -  OK
+	5.4 - Multiplicar pontos ganhos pelo level atual - OK
+	
+##Sistema de Level
+	6.1 - Iniciando sistema de level -  OK
+	6.2 - Ganhando level - OK
+	6.3 - Exibindo o level -  OK
+	
+##Sons do Jogo
+	7.1 - Importando os Sons - OK
+	7.2 - Tocando musica de fundo - ok
+	7.3 - Level up ao ganhando level - OK
+	
+##Tela inicial do Jogo
+	8.1 - Criando a room - OK
+	8.2 - Criando a sprite Apresentação - Ok
+	8.3 - Criando a animação com a Sprie - OK
+	8.4 - Iniciando o jogo ao apertar espaço - OK
+	
